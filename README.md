@@ -51,3 +51,20 @@ To run the project locally, follow these steps:
     ```
 2. Open and run the notebooks in the `notebooks` directory to explore the analysis.
 3. Use the scripts in the `scripts` directory for data processing and model training.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## Contact
+
+For any questions or feedback, please feel free to contact:
+
+- **Your Name:** [your.email@example.com](mailto:your.email@example.com)
+- **GitHub:** [yourusername](https://github.com/yourusername)
