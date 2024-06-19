@@ -1,7 +1,7 @@
 # Green Job Market Data Analysis
 
 <div align="center">
-  <img src="" alt="Green Logo">
+  <img src="https://i1.wp.com/d3d2ir91ztzaym.cloudfront.net/uploads/2020/12/job-in-environment-science.png?fit=800%2C350&ssl=1" alt="Green Logo">
 </div>
 
 ## Overview
