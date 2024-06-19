@@ -8,6 +8,8 @@
 
 **Green Job Market Data Analysis** is a data analytics project focused on examining the dynamics of the green job market. The aim is to uncover insights and trends within the sector, helping to understand the growth, opportunities, and challenges associated with green jobs.
 
+## LinkedIn Post
+
 ## Features
 
 - **Data Collection:** Gathering data from various sources about the green job market.
