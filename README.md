@@ -1,6 +1,8 @@
 # Green Job Market Data Analysis
 
-![Green Job Market Data Analysis](path/to/your/logo.png)
+<div align="center">
+  <img src="" alt="Green Logo">
+</div>
 
 ## Overview
 
