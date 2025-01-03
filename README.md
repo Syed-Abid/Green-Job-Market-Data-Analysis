@@ -25,6 +25,8 @@
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Jupyter Notebook, Tableau/Power BI (for advanced visualizations)
 
+## Report
+
 ## Installation
 
 To run the project locally, follow these steps:
